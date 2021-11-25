@@ -1,0 +1,1 @@
+update tb_funcionarios set nome = "Osmar" where id_funcionario = 1;
